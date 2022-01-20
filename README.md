@@ -7,11 +7,15 @@
 
 ### 2. Classification - digits, wine, breast_cancer 실습 및 응용
 - sklearn.datasets 활용
-- [E-02]Classification_digits.ipynb - 제출 22.01.14  
-  [E-02]Classification_wine.ipynb - 제출 22.01.14  
+- [E-02]Classification_digits.ipynb - 제출 22.01.14 
+  [E-02]Classification_wine.ipynb - 제출 22.01.14 
   [E-02]Classification_breast_cancer.ipynb - 제출 22.01.14  
 
 ### 3. camera sticker - 다양한 스티커 붙이기 실습 및 응용
-- [E-03]camera_sticker1.ipynb - 제출 22.01.18  
+- [E-03]camera_sticker1.ipynb - 제출 22.01.18 
   [E-03]camera_sticker2.ipynb - 제출 22.01.18  
+
+### 4. 작사가 인공지능 만들기 - 실습 및 응용
+
+- [E-04]lyricist_ai.ipynb - 제출 22.01.20  
 
