@@ -19,3 +19,6 @@
 
 - [E-04]lyricist_ai.ipynb - 제출 22.01.20  
 
+### 5. Kaggle 경진대회 - 무작정 따라하기
+
+- [E-05]Kaggle_house_price_prediction.ipynb - 제출 22.01.24  
