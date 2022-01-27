@@ -22,3 +22,7 @@
 ### 5. Kaggle 경진대회 - 무작정 따라하기
 
 - [E-05]Kaggle_house_price_prediction.ipynb - 제출 22.01.24  
+
+### 6. 네이버 영화리뷰 감성분석
+
+- [E-06]sentiment_classification_movie_review.ipynb - 제출 22.01.27  
