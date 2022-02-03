@@ -26,3 +26,7 @@
 ### 6. 네이버 영화리뷰 감성분석
 
 - [E-06]sentiment_classification_movie_review.ipynb - 제출 22.01.27  
+
+### 7. 인물모드 문제점 찾기
+
+- [E-07]human_segmentation_window.ipynb - 제출 22.02.03  
