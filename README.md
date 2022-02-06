@@ -30,3 +30,7 @@
 ### 7. 인물모드 문제점 찾기
 
 - [E-07]human_segmentation_window.ipynb - 제출 22.02.03  
+
+### 8. 뉴스기사 요약해보기
+
+- [E-08]news_summarize_1024.ipynb - 제출 22.02.06  
