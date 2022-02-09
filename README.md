@@ -34,3 +34,7 @@
 ### 8. 뉴스기사 요약해보기
 
 - [E-08]news_summarize_1024.ipynb - 제출 22.02.06  
+
+### 9. 폐렴 진단기 성능개선
+
+- [E-09]Pneumonia_performance_improvement.ipynb - 제출 22.02.10 
