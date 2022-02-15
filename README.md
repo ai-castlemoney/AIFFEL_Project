@@ -38,3 +38,7 @@
 ### 9. 폐렴 진단기 성능개선
 
 - [E-09]Pneumonia_performance_improvement.ipynb - 제출 22.02.10 
+
+### 10. CIFAR-10 이미지 생성하기
+
+- [E-10]CIFAR-10_dcgan.ipynb - 제출 22.02.15 
