@@ -46,4 +46,7 @@
 ### 11. 주식 예측에 도전해 보자
 
 - [E-11]Predicting_stocks.ipynb - 제출 22.02.17
- 
+
+### 12. 한국어 데이터로 챗봇 만들기
+
+- [E-12]Transformer_Chatbot_Kor.ipynb - 제출 22.02.21
