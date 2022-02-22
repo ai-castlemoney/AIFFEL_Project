@@ -51,6 +51,6 @@
 
 - [E-12]Transformer_Chatbot_Kor.ipynb - 제출 22.02.21
 
-### 13. 한국어 데이터로 챗봇 만들기
+### 13. Pretrained model의 활용(KorQuAD)
 
 - [E-13]Pretrained_model_KorQuAD.ipynb - 제출 22.02.22
