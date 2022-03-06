@@ -58,3 +58,7 @@
 ### 14. 영화 추천시스템(Movielens)
 
 - [E-14]Movie_Recommendation(Movielens).ipynb - 제출 22.03.06
+
+### 15. 다양한 OCR 모델 비교하기
+
+- [E-15]Compare_different_OCRs.ipynb - 제출 22.03.06
