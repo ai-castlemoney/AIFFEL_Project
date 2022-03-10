@@ -1,4 +1,11 @@
 # AIFFEL_Project
+## [1st DATATHON] 
+
+### 1. 넷플릭스 dataset 활용한 데이터 분석 및 시각화
+
+- Netflthon_Netflix_EDA_Visualization.ipynb - 제출 22.03.11
+
+
 ## [EXPLORATION]  
 
 ### 1. 손글씨 이미지(MNIST) 실습 및 응용(가위, 바위, 보 이미지 분류 프로젝트)
@@ -62,3 +69,4 @@
 ### 15. 다양한 OCR 모델 비교하기
 
 - [E-15]Compare_different_OCRs.ipynb - 제출 22.03.06
+
