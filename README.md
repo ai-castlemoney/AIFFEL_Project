@@ -70,3 +70,6 @@
 
 - [E-15]Compare_different_OCRs.ipynb - 제출 22.03.06
 
+### 16. Movielens 영화 SBR
+
+- [E-16]Movielens_Recommendation_SBR.ipynb - 제출 22.03.16
