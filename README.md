@@ -73,3 +73,7 @@
 ### 16. Movielens 영화 SBR
 
 - [E-16]Movielens_Recommendation_SBR.ipynb - 제출 22.03.16
+
+### 17. Segmentation map으로 도로 이미지 만들기
+
+- [E-17][E-17]Segmentation_map_street_img(corab_air).ipynb - 제출 22.03.21
