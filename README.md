@@ -68,3 +68,6 @@
 
 ### 1. SentencePiece 사용하기
 - [GD_NLP-01]SentencePiece_NSMC.ipynb - 제출 22.03.23
+
+### 2. 뉴스 카테고리 다중분류(Vocabulary Size 변경해서 시도해보기)
+- [GD_NLP-02]reuter_news_classifier_test.ipynb - 제출 22.03.29
