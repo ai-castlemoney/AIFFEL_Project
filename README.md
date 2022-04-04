@@ -71,3 +71,6 @@
 
 ### 2. 뉴스 카테고리 다중분류(Vocabulary Size 변경해서 시도해보기)
 - [GD_NLP-02]reuter_news_classifier_test.ipynb - 제출 22.03.29
+
+### 3. 모든 영화 장르 간 편향성 측정해 보기
+- [GD_NLP-03]weat_score.ipynb - 제출 22.04.04
