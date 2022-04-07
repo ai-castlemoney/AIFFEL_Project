@@ -74,3 +74,6 @@
 
 ### 3. 모든 영화 장르 간 편향성 측정해 보기
 - [GD_NLP-03]weat_score.ipynb - 제출 22.04.04
+
+### 4. 한영 번역기 만들기
+- [GD_NLP-04]Seq2Seq_Translation_Kor2Eng_LMS.ipynb - 제출 22.04.07
