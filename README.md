@@ -77,3 +77,6 @@
 
 ### 4. 한영 번역기 만들기
 - [GD_NLP-04]Seq2Seq_Translation_Kor2Eng_LMS.ipynb - 제출 22.04.07
+
+### 5. 더 멋진 번역기 만들기
+- [GD_NLP-05]Transformer_Translater_Kor2Eng.ipynb - 제출 22.04.12
